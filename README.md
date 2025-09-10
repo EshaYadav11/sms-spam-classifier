@@ -36,6 +36,7 @@ It uses text preprocessing, Bag of Words, and compares **Naive Bayes** and **Log
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
 3. Open the notebook:
+   ```bash
    jupyter notebook sms_spam_classifier.ipynb
 
 ---
